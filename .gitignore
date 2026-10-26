@@ -1,0 +1,14 @@
+/command-history-state.json
+/config.json
+/config.json.trusted-folders.lock
+/ide/
+/installed-plugins/
+/installed-plugins.lock
+/logs/
+/open-sessions-state.json
+/session-state/
+/settings.json
+/settings.json.lock
+/sidebar-sessions-state/
+/.impeccable/
+/.claude/settings.local.json
