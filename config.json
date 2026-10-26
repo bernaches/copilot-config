@@ -1,0 +1,20 @@
+// User settings belong in settings.json.
+// This file is managed automatically.
+{
+  "firstLaunchAt": "2026-10-26T01:51:06.002Z",
+  "appTipShown": true,
+  "reasoningSummariesCleanupDone": true,
+  "trustedFolders": [
+    "C:\\Users\\mcoretico\\.copilot"
+  ],
+  "installedPlugins": [
+    {
+      "name": "ponytail",
+      "marketplace": "ponytail",
+      "installed_at": "2026-10-26T01:51:41.6006613Z",
+      "cache_path": "C:\\Users\\mcoretico\\.copilot\\installed-plugins\\ponytail\\ponytail",
+      "source_sha": "46bb388a894f2b6ce71b4973cbfdcd67767056cfca6fb6677ce893d0dcd2fd41",
+      "enabled": true
+    }
+  ]
+}
